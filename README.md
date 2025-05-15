@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e44ff,100:9544ff&height=180&section=header&text=Hi%20I'm%20B0atByte%20👨‍💻&fontSize=35&fontAlign=70&fontColor=ffffff" />
 
-# 👋 Hi, I’m @B0atByte
+# 👋 Hi, I’m @B0atByte (Boat)
 
 [![Gmail](https://img.shields.io/badge/Gmail-boatzaha2905@gmail.com-red?style=flat&logo=gmail)](mailto:boatzaha2905@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-063--921--6822-blue?style=flat&logo=phone)](tel:0639216822)
