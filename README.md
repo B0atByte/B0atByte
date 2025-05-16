@@ -1,5 +1,4 @@
 <!-- Header Animation -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e44ff,100:9544ff&height=180&section=header&text=Hi%20I’m%20B0atByte%20👨‍💻&fontSize=35&fontAlign=70&fontColor=ffffff" />
 
 <h1 align="center">🚀 Hello, I’m @B0atByte (Boat)</h1>
@@ -15,19 +14,6 @@
     <img src="https://img.shields.io/badge/GitHub-B0atByte-181717?style=flat&logo=github" />
   </a>
 </p>
-
----
-
-## 💡 About Me
-
-````yaml
-FullName:     Patthanapong NA (B0atByte)
-Location:     Thailand 🇹🇭
-Languages:    PHP | JS | SQL | HTML/CSS
-Frameworks:   Laravel | Tailwind CSS | Bootstrap
-Tools:        Git | VSCode | XAMPP | MySQL | Netdata | Composer
-Roles:        Full-stack Dev | IT Support | Automation Builder
-
 🛠️ My Focus & Passion
 💻 Full-stack development with PHP/Laravel + modern UI tools
 
@@ -60,4 +46,13 @@ Roles:        Full-stack Dev | IT Support | Automation Builder
 🕶️ Motto: Code smart. Work clean. Help often.
 
 <!-- Footer Animation --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9544ff,100:6e44ff&height=120&section=footer"/> ```
-````
+---
+
+## 💡 About Me
+```yaml
+FullName:     Patthanapong NA (B0atByte)
+Location:     Thailand 🇹🇭
+Languages:    PHP | JS | SQL | HTML/CSS
+Frameworks:   Laravel | Tailwind CSS | Bootstrap
+Tools:        Git | VSCode | XAMPP | MySQL | Netdata | Composer
+Roles:        Full-stack Dev | IT Support | Automation Builder
