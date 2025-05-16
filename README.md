@@ -1,37 +1,28 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e44ff,100:9544ff&height=180&section=header&text=Hi%20I'm%20B0atByte%20👨‍💻&fontSize=35&fontAlign=70&fontColor=ffffff" />
+<!-- Header Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e44ff,100:9544ff&height=180&section=header&text=Hi%20I’m%20B0atByte%20👨‍💻&fontSize=35&fontAlign=70&fontColor=ffffff" />
 
-# 👋 Hi, I’m @B0atByte (Boat)
+<h1 align="center">🚀 Hello, I’m @B0atByte (Boat)</h1>
 
-[![Gmail](https://img.shields.io/badge/Gmail-boatzaha2905@gmail.com-red?style=flat&logo=gmail)](mailto:boatzaha2905@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-063--921--6822-blue?style=flat&logo=phone)](tel:0639216822)
-[![Visit GitHub](https://img.shields.io/badge/GitHub-B0atByte-black?style=flat&logo=github)](https://github.com/B0atByte)
-
----
-
-- 👨‍💻 I’m passionate about **Full-Stack Web Development**, **IT Support**, and **System Automation**
-- 🛠️ Currently sharpening skills in **Laravel**, **Tailwind CSS**, and **DevOps tools**
-- 🤝 Looking to collaborate on **open-source tools for IT support/helpdesk**
-- 📫 Reach me via email: boatzaha2905@gmail.com | 📱 063-921-6822
-- ⚡ Fun fact: I built an insurance tracking system that won 🥈 2nd place in a regional competition!
-
----
-
-## 🚀 Projects I’m Proud Of
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B0atByte&repo=field_project&theme=tokyonight)](https://github.com/B0atByte/field_project)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B0atByte&repo=Help-Desk-&theme=tokyonight)](https://github.com/B0atByte/Help-Desk-)
+<p align="center">
+  <a href="mailto:boatzaha2905@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-boatzaha2905@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:0639216822">
+    <img src="https://img.shields.io/badge/Phone-063--921--6822-007AFF?style=flat&logo=phone&logoColor=white" />
+  </a>
+  <a href="https://github.com/B0atByte">
+    <img src="https://img.shields.io/badge/GitHub-B0atByte-181717?style=flat&logo=github" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 💡 About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B0atByte&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=B0atByte&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=B0atByte&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9544ff,100:6e44ff&height=120&section=footer"/>
-
+```yaml
+FullName:     Patthanapong NA (B0atByte)
+Location:     Thailand 🇹🇭
+Languages:    PHP | JS | SQL | HTML/CSS
+Frameworks:   Laravel | Tailwind CSS | Bootstrap
+Tools:        Git | VSCode | XAMPP | MySQL | Netdata | Composer
+Roles:        Full-stack Dev | IT Support | Automation Builder
