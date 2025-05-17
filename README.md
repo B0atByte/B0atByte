@@ -1,23 +1,27 @@
-<!-- Header Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e44ff,100:9544ff&height=180&section=header&text=Hi%20I’m%20B0atByte%20👨‍💻&fontSize=35&fontAlign=70&fontColor=ffffff" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e44ff,100:9544ff&height=180&section=header&text=Hi%20I’m%20B0atByte%20👨‍💻&fontSize=36&fontAlign=70&fontColor=ffffff" />
 
-<h1 align="center">🚀 Hello, I’m @B0atByte (Boat)</h1>
+<h1 align="center">🚀 Hello, I’m @B0atByte (Boat) 💻</h1>
 
 <p align="center">
   <a href="mailto:boatzaha2905@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-boatzaha2905@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-boatzaha2905@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="tel:0639216822">
-    <img src="https://img.shields.io/badge/Phone-063--921--6822-007AFF?style=flat&logo=phone&logoColor=white" />
+    <img src="https://img.shields.io/badge/Phone-063--921--6822-007AFF?style=for-the-badge&logo=phone&logoColor=white" />
   </a>
   <a href="https://github.com/B0atByte">
-    <img src="https://img.shields.io/badge/GitHub-B0atByte-181717?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-B0atByte-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## 💡 About Me
+> 🧠 *“Code smart. Work clean. Help often.”*
+
+---
+
+## ✨ About Me
 
 ```yaml
 FullName:     Patthanapong NA (B0atByte)
@@ -30,20 +34,21 @@ Roles:        Full-stack Dev | IT Support | Automation Builder
 
 ---
 
-## 🛠️ My Focus & Passion
+## 🔥 Skills & Focus
 
-- 💻 Full-stack development with PHP/Laravel + modern UI tools  
-- 🧰 Building internal systems & dashboards for support teams  
-- ⚙️ Automating workflows and notifications (Telegram, Discord, Mail)  
-- 🧠 Always learning DevOps tools and security practices  
+🎯 **Full-stack development** with Laravel, Tailwind CSS, Bootstrap  
+🧰 Building internal systems & dashboards  
+🤖 Automating workflows (Telegram, Discord, Mail APIs)  
+🛡️ DevOps & security best practices  
+🧩 UI/UX focused clean coding
 
 ---
 
-## 🏆 Achievements
+## 🏆 Notable Achievements
 
-- 🥈 Built an **Insurance PRM Web App** that won `2nd Place` in a regional competition  
-- 🛠️ Developed multiple **ticketing/helpdesk systems** for real-world use  
-- 📍 Created a **Field Tracking System** with GPS logging, PWA support, and Excel reports  
+- 🥈 2nd Place — Insurance PRM Web App @ Regional Comp  
+- 🛠️ Built Ticketing System used by internal teams  
+- 📍 Field Tracking System with PWA + GPS & Excel Export  
 
 ---
 
@@ -63,7 +68,7 @@ Roles:        Full-stack Dev | IT Support | Automation Builder
 
 ---
 
-## 📈 GitHub Insights
+## 📊 GitHub Stats & Streak
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=B0atByte&show_icons=true&theme=tokyonight" />
@@ -74,12 +79,25 @@ Roles:        Full-stack Dev | IT Support | Automation Builder
 
 ---
 
-## ⚡ Fun Fact Zone
+## 💬 Fun Facts
 
-- 🎮 Used to mod Minecraft servers and deploy self-hosted services  
-- 🤖 Automates tasks with Node.js, MySQL, and external APIs  
-- 💬 Loves building tools that save time for others  
-- 🕶️ Motto: *Code smart. Work clean. Help often.*
+- 🎮 Minecraft server modder & sysadmin
+- 🤖 Bots + API + Task Automation enthusiast
+- 🧰 Terminal addict
+- ✍️ Markdown is my love language
+
+---
+
+## ☕ Contact Me
+
+<p align="center">
+  <a href="mailto:boatzaha2905@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20me-boatzaha2905@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:0639216822">
+    <img src="https://img.shields.io/badge/Talk%20on%20Phone-0639216822-0A66C2?style=for-the-badge&logo=phone" />
+  </a>
+</p>
 
 ---
 
