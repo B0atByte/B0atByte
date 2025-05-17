@@ -56,6 +56,9 @@ Roles:        Full-stack Dev | IT Support | Automation Builder
   <a href="https://github.com/B0atByte/Help-Desk-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=B0atByte&repo=Help-Desk-&theme=tokyonight" />
   </a>
+  <a href="https://github.com/B0atByte/Help-Desk-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=B0atByte&repo=Help-Desk-&theme=tokyonight" />
+  </a>
 </p>
 
 ---
