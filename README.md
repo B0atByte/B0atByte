@@ -50,11 +50,11 @@ Roles:        Full-stack Dev | IT Support | Automation Builder
 ## 🚀 Featured Projects
 
 <p align="center">
+  <a href="https://github.com/B0atByte/crud-laravel-simple">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=B0atByte&repo=crud-laravel-simple&theme=tokyonight" />
+  </a>
   <a href="https://github.com/B0atByte/field_project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=B0atByte&repo=field_project&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/B0atByte/Help-Desk-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=B0atByte&repo=Help-Desk-&theme=tokyonight" />
   </a>
   <a href="https://github.com/B0atByte/Help-Desk-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=B0atByte&repo=Help-Desk-&theme=tokyonight" />
