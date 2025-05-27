@@ -79,13 +79,6 @@ Roles:        Full-stack Dev | IT Support | Automation Builder
 
 ---
 
-## 💬 Fun Facts
-
-- 🎮 Minecraft server modder & sysadmin
-- 🤖 Bots + API + Task Automation enthusiast
-- 🧰 Terminal addict
-- ✍️ Markdown is my love language
-
 ---
 
 ## ☕ Contact Me
