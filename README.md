@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e44ff,100:9544ff&height=180&section=header&text=Hi%20I’m%20B0atByte%20👨‍💻&fontSize=36&fontAlign=70&fontColor=ffffff" />
 
-<h1 align="center">🚀 Hello, I’m @B0atByte (Boat) 💻</h1>
+<h1 align="center">Hello, I’m @B0atByte (Boat) 💻</h1>
 
 <p align="center">
   <a href="mailto:boatzaha2905@gmail.com">
@@ -17,11 +17,11 @@
 
 ---
 
-> 🧠 *“Code smart. Work clean. Help often.”*
+*“Code smart. Work clean. Help often.”*
 
 ---
 
-## ✨ About Me
+##About Me
 
 ```yaml
 FullName:     Patthanapong NA (B0atByte)
@@ -34,7 +34,7 @@ Roles:        Full-stack Dev | IT Support | Automation Builder
 
 ---
 
-## 🔥 Skills & Focus
+## Skills & Focus
 
 🎯 **Full-stack development** with Laravel, Tailwind CSS, Bootstrap  
 🧰 Building internal systems & dashboards  
@@ -42,17 +42,7 @@ Roles:        Full-stack Dev | IT Support | Automation Builder
 🛡️ DevOps & security best practices  
 🧩 UI/UX focused clean coding
 
----
-
-## 🏆 Notable Achievements
-
-- 🥈 2nd Place — Insurance PRM Web App @ Regional Comp  
-- 🛠️ Built Ticketing System used by internal teams  
-- 📍 Field Tracking System with PWA + GPS & Excel Export  
-
----
-
-## 🚀 Featured Projects
+##Featured Projects
 
 <p align="center">
   <a href="https://github.com/B0atByte/crud-laravel-simple">
@@ -68,7 +58,7 @@ Roles:        Full-stack Dev | IT Support | Automation Builder
 
 ---
 
-## 📊 GitHub Stats & Streak
+##GitHub Stats & Streak
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=B0atByte&show_icons=true&theme=tokyonight" />
@@ -81,7 +71,7 @@ Roles:        Full-stack Dev | IT Support | Automation Builder
 
 ---
 
-## ☕ Contact Me
+##Contact Me
 
 <p align="center">
   <a href="mailto:boatzaha2905@gmail.com">
