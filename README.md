@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e44ff,100:9544ff&height=180&section=header&text=Hi%20I’m%20B0atByte%20👨‍💻&fontSize=36&fontAlign=70&fontColor=ffffff" />
 
-<h1 align="center">Hello, I’m @B0atByte (Boat) 💻</h1>
+<h1 align="center">Hello, I’m PATTHANAPONG KINGJUN (Boat)</h1>
 
 <p align="center">
   <a href="mailto:boatzaha2905@gmail.com">
@@ -36,11 +36,11 @@ Roles:        Full-stack Dev | IT Support | Automation Builder
 
 ## Skills & Focus
 
-🎯 **Full-stack development** with Laravel, Tailwind CSS, Bootstrap  
-🧰 Building internal systems & dashboards  
-🤖 Automating workflows (Telegram, Discord, Mail APIs)  
-🛡️ DevOps & security best practices  
-🧩 UI/UX focused clean coding
+Full-stack development** with Laravel, Tailwind CSS, Bootstrap  
+Building internal systems & dashboards  
+Automating workflows (Telegram, Discord, Mail APIs)  
+DevOps & security best practices  
+UI/UX focused clean coding
 
 ##Featured Projects
 
