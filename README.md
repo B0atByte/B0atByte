@@ -1,88 +1,198 @@
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e44ff,100:9544ff&height=180&section=header&text=Hi%20I’m%20B0atByte%20👨‍💻&fontSize=36&fontAlign=70&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=200&section=header&text=B0atByte&fontSize=80&fontAlign=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlign=50&descSize=18&descAlignY=75" />
 
-<h1 align="center">Hello, I’m PATTHANAPONG KINGJUN (Boat)</h1>
+<div align="center">
+  
+# 👋 Hello, I'm **PATTHANAPONG KINGJUN**
 
-<p align="center">
-  <a href="mailto:boatzaha2905@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-boatzaha2905@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:0639216822">
-    <img src="https://img.shields.io/badge/Phone-063--921--6822-007AFF?style=for-the-badge&logo=phone&logoColor=white" />
-  </a>
-  <a href="https://github.com/B0atByte">
-    <img src="https://img.shields.io/badge/GitHub-B0atByte-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+### Full-Stack Developer | IT Infrastructure | DevOps
+
+[![Gmail](https://img.shields.io/badge/Gmail-boatzaha2905@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boatzaha2905@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-B0atByte-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/B0atByte)
+[![Location](https://img.shields.io/badge/Location-Thailand%20🇹🇭-blue?style=for-the-badge&logo=google-maps&logoColor=white)]()
+
+</div>
 
 ---
 
-*“Code smart. Work clean. Help often.”*
+<div align="center">
+  <i>"Code smart. Work clean. Help often."</i>
+</div>
 
 ---
 
-##About Me
+## 🧑‍💻 About Me
 
 ```yaml
-FullName:     Patthanapong NA (B0atByte)
-Location:     Thailand 🇹🇭
-Languages:    PHP | JS | SQL | HTML/CSS
-Frameworks:   Laravel | Tailwind CSS | Bootstrap
-Tools:        Git | VSCode | XAMPP | MySQL | Netdata | Composer
-Roles:        Full-stack Dev | IT Support | Automation Builder
+name: Patthanapong Kingjun (Boat)
+alias: B0atByte
+location: Thailand 🇹🇭
+current_role: Full-Stack Developer | IT Administrator | DevOps Enthusiast
+
+interests:
+  - Building scalable web applications
+  - Containerization & Microservices
+  - Infrastructure automation
+  - System administration & Networking
+
+education: Information Technology
 ```
 
 ---
 
-## Skills & Focus
+## 🛠️ Tech Stack
 
-Full-stack development** with Laravel, Tailwind CSS, Bootstrap  
-Building internal systems & dashboards  
-Automating workflows (Telegram, Discord, Mail APIs)  
-DevOps & security best practices  
-UI/UX focused clean coding
+<div align="center">
 
-##Featured Projects
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/B0atByte/crud-laravel-simple">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=B0atByte&repo=crud-laravel-simple&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/B0atByte/field_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=B0atByte&repo=field_project&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/B0atByte/Help-Desk-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=B0atByte&repo=Help-Desk-&theme=tokyonight" />
-  </a>
-</p>
+### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### DevOps & Containers
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+### Version Control & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Skills & Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Development
+- Full-stack web development with **Laravel**
+- RESTful API design & integration
+- Database design & optimization
+- Responsive UI with **Tailwind CSS** & **Bootstrap**
+- Workflow automation (Telegram, Discord, Mail APIs)
+
+</td>
+<td width="50%">
+
+### 🐳 DevOps & Infrastructure
+- **Docker** containerization & orchestration
+- Docker Compose for multi-container apps
+- CI/CD pipelines with **GitHub Actions**
+- Server administration (Linux/Windows)
+- SSL/TLS configuration & security hardening
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔧 Version Control
+- **Git** workflow management
+- Branch strategies & code reviews
+- GitHub collaboration & project management
+- Repository maintenance & documentation
+
+</td>
+<td width="50%">
+
+### 🛡️ IT Administration
+- Network infrastructure management
+- System monitoring & performance tuning
+- VoIP/Telephony systems (Issabel/FreePBX)
+- Security best practices implementation
+
+</td>
+</tr>
+</table>
 
 ---
 
-##GitHub Stats & Streak
+## 📌 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B0atByte&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0atByte&layout=compact&theme=tokyonight" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=B0atByte&theme=tokyonight" />
-</p>
+<div align="center">
+
+[![CRUD Laravel](https://github-readme-stats.vercel.app/api/pin/?username=B0atByte&repo=crud-laravel-simple&theme=tokyonight&hide_border=true)](https://github.com/B0atByte/crud-laravel-simple)
+[![Field Project](https://github-readme-stats.vercel.app/api/pin/?username=B0atByte&repo=field_project&theme=tokyonight&hide_border=true)](https://github.com/B0atByte/field_project)
+
+[![Help Desk](https://github-readme-stats.vercel.app/api/pin/?username=B0atByte&repo=Help-Desk-&theme=tokyonight&hide_border=true)](https://github.com/B0atByte/Help-Desk-)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=B0atByte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0atByte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=B0atByte&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=B0atByte&theme=tokyo-night&hide_border=true&area=true)](https://github.com/B0atByte)
+
+</div>
 
 ---
 
----
+## 🏆 GitHub Trophies
 
-##Contact Me
+<div align="center">
 
-<p align="center">
-  <a href="mailto:boatzaha2905@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20me-boatzaha2905@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:0639216822">
-    <img src="https://img.shields.io/badge/Talk%20on%20Phone-0639216822-0A66C2?style=for-the-badge&logo=phone" />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=B0atByte&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_Email_Me-boatzaha2905@gmail.com-EA4335?style=for-the-badge)](mailto:boatzaha2905@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙_Follow_on_GitHub-B0atByte-181717?style=for-the-badge)](https://github.com/B0atByte)
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=B0atByte&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 <!-- Footer Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9544ff,100:6e44ff&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:8b5cf6,100:6366f1&height=120&section=footer"/>
