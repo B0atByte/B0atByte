@@ -25,7 +25,7 @@
 
 ```yaml
 name: Patthanapong Kingjun (Boat)
-alias: B0atByte
+alias: Boat Patthanapong
 location: Thailand 🇹🇭
 current_role: Full-Stack Developer | IT Administrator | DevOps Enthusiast
 
