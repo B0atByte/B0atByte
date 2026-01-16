@@ -1,15 +1,15 @@
-<!-- Animated Header -->
+<!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=200&section=header&text=B0atByte&fontSize=80&fontAlign=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlign=50&descSize=18&descAlignY=75" />
 
 <div align="center">
   
-# Hello, I'm **PATTHANAPONG KINGJUN**.
+# PATTHANAPONG KINGJUN
 
 ### Full-Stack Developer | IT Infrastructure | DevOps
 
 [![Gmail](https://img.shields.io/badge/Gmail-boatzaha2905@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boatzaha2905@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-B0atByte-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/B0atByte)
-[![Location](https://img.shields.io/badge/Location-Thailand%20🇹🇭-blue?style=for-the-badge&logo=google-maps&logoColor=white)]()
+[![Location](https://img.shields.io/badge/Location-Thailand-blue?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
 </div>
 
@@ -26,7 +26,7 @@
 ```yaml
 name: Patthanapong Kingjun (Boat)
 alias: B0atByte
-location: Thailand 🇹🇭
+location: Thailand
 current_role: Full-Stack Developer | IT Administrator | DevOps Enthusiast
 
 interests:
@@ -64,7 +64,7 @@ education: Information Technology
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-### Version Control & Collaboration
+### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -137,10 +137,13 @@ education: Information Technology
 
 <div align="center">
 
-[![CRUD Laravel](https://github-readme-stats.vercel.app/api/pin/?username=B0atByte&repo=crud-laravel-simple&theme=tokyonight&hide_border=true)](https://github.com/B0atByte/crud-laravel-simple)
-[![Field Project](https://github-readme-stats.vercel.app/api/pin/?username=B0atByte&repo=field_project&theme=tokyonight&hide_border=true)](https://github.com/B0atByte/field_project)
-
-[![Help Desk](https://github-readme-stats.vercel.app/api/pin/?username=B0atByte&repo=Help-Desk-&theme=tokyonight&hide_border=true)](https://github.com/B0atByte/Help-Desk-)
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[crud-laravel-simple](https://github.com/B0atByte/crud-laravel-simple)** | Basic CRUD operations with Laravel | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) |
+| **[Badcourd](https://github.com/B0atByte/Badcourd)** | Badminton Court Booking System | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **[Help-Desk-](https://github.com/B0atByte/Help-Desk-)** | IT Helpdesk Management System | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| **[field_project](https://github.com/B0atByte/field_project)** | Field Management System | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| **[laravel-auth-system](https://github.com/B0atByte/laravel-auth-system)** | Authentication System with Laravel | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) |
 
 </div>
 
@@ -150,49 +153,42 @@ education: Information Technology
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=B0atByte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0atByte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=B0atByte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=B0atByte&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=B0atByte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=B0atByte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=B0atByte&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=B0atByte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</picture>
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=B0atByte&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=B0atByte&theme=tokyo-night&hide_border=true&area=true)](https://github.com/B0atByte)
-
 </div>
 
 ---
 
-## GitHub Trophies
+## Contact
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=B0atByte&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧_Email_Me-boatzaha2905@gmail.com-EA4335?style=for-the-badge)](mailto:boatzaha2905@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_Follow_on_GitHub-B0atByte-181717?style=for-the-badge)](https://github.com/B0atByte)
+[![Email](https://img.shields.io/badge/Email-boatzaha2905@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boatzaha2905@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-B0atByte-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/B0atByte)
 
 </div>
 
 ---
 
 <div align="center">
-
-### Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=B0atByte&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<!-- Footer Animation -->
+<!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:8b5cf6,100:6366f1&height=120&section=footer"/>
