@@ -3,7 +3,7 @@
 
 <div align="center">
   
-# 👋 Hello, I'm **PATTHANAPONG KINGJUN**
+# Hello, I'm **PATTHANAPONG KINGJUN**
 
 ### Full-Stack Developer | IT Infrastructure | DevOps
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 name: Patthanapong Kingjun (Boat)
@@ -40,7 +40,7 @@ education: Information Technology
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -84,13 +84,13 @@ education: Information Technology
 
 ---
 
-## 🎯 Skills & Expertise
+## Skills & Expertise
 
 <table>
 <tr>
 <td width="50%">
 
-### 💻 Development
+### Development
 - Full-stack web development with **Laravel**
 - RESTful API design & integration
 - Database design & optimization
@@ -100,7 +100,7 @@ education: Information Technology
 </td>
 <td width="50%">
 
-### 🐳 DevOps & Infrastructure
+### DevOps & Infrastructure
 - **Docker** containerization & orchestration
 - Docker Compose for multi-container apps
 - CI/CD pipelines with **GitHub Actions**
@@ -112,7 +112,7 @@ education: Information Technology
 <tr>
 <td width="50%">
 
-### 🔧 Version Control
+### Version Control
 - **Git** workflow management
 - Branch strategies & code reviews
 - GitHub collaboration & project management
@@ -121,7 +121,7 @@ education: Information Technology
 </td>
 <td width="50%">
 
-### 🛡️ IT Administration
+### IT Administration
 - Network infrastructure management
 - System monitoring & performance tuning
 - VoIP/Telephony systems (Issabel/FreePBX)
@@ -133,7 +133,7 @@ education: Information Technology
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -146,7 +146,7 @@ education: Information Technology
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -165,7 +165,7 @@ education: Information Technology
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -175,12 +175,12 @@ education: Information Technology
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email_Me-boatzaha2905@gmail.com-EA4335?style=for-the-badge)](mailto:boatzaha2905@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_Follow_on_GitHub-B0atByte-181717?style=for-the-badge)](https://github.com/B0atByte)
+[![Email](https://img.shields.io/badge/Email_Me-boatzaha2905@gmail.com-EA4335?style=for-the-badge)](mailto:boatzaha2905@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-B0atByte-181717?style=for-the-badge)](https://github.com/B0atByte)
 
 </div>
 
@@ -188,7 +188,7 @@ education: Information Technology
 
 <div align="center">
 
-### 👀 Profile Views
+### Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=B0atByte&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
