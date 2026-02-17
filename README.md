@@ -27,13 +27,14 @@
 name: Patthanapong Kingjun (Boat)
 alias: B0atByte
 location: Thailand
-current_role: Full-Stack Developer | IT Administrator | DevOps Enthusiast
+current_role: Full-Stack Developer | IT Administrator | DevOps Enthusiast | AI Automation Developer
 
 interests:
   - Building scalable web applications
   - Containerization & Microservices
   - Infrastructure automation
   - System administration & Networking
+  - AI Automation Developer
 
 education: Information Technology
 ```
