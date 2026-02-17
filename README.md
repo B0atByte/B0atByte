@@ -5,7 +5,7 @@
   
 # PATTHANAPONG KINGJUN
 
-### Full-Stack Developer | IT Infrastructure | DevOps
+### Full-Stack Developer | IT Infrastructure | AI Automation Developer
 
 [![Gmail](https://img.shields.io/badge/Gmail-boatzaha2905@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boatzaha2905@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-B0atByte-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/B0atByte)
